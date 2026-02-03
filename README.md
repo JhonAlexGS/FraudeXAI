@@ -1,6 +1,11 @@
 # FraudeXAI
 ### Sistema Inteligente de Detección de Fraude en Tiempo Real con Análisis Explicable
 
+dghj
+
+
+
+
 ## 📋 Descripción del Proyecto
 
 Sistema end-to-end de detección de fraude en transacciones financieras que combina múltiples algoritmos de Machine Learning y Deep Learning con capacidades de explicabilidad (XAI). El sistema procesa transacciones en tiempo real, identifica patrones fraudulentos y proporciona explicaciones interpretables sobre cada predicción, cumpliendo con requisitos regulatorios de instituciones financieras.
