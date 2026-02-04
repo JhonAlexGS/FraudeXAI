@@ -58,7 +58,17 @@ def health_check():
     """
     return {
         "status": "healthy",
-        "service": settings.APP_NAME
+        "service": settings.APP_NAME,
+        "MAX_TRANSACTIONS_PER_MINUTE": settings.MAX_TRANSACTIONS_PER_MINUTE
+    }
+
+@app.get("/api/v1/info")
+def health_check():
+    return {
+        "app": "healthy",
+        "version": settings.VERSION,
+        "author": settings.AUTHOR,
+        "endpoints": ["/", "/health", "/docs"],
     }
 
 # Este bloque solo se ejecuta si corres este archivo directamente

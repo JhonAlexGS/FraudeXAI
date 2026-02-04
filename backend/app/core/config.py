@@ -19,7 +19,9 @@ class Settings(BaseSettings):
     # Información de la aplicación
     APP_NAME: str = "Fraud Detection System"
     VERSION: str = "1.0.0"
+    AUTHOR:str = "Jhon García"
     DEBUG: bool = True  # True en desarrollo, False en producción
+    MAX_TRANSACTIONS_PER_MINUTE: int = 100
     
     # Base de datos
     # sqlite:/// significa base de datos SQLite local
