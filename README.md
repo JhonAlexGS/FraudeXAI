@@ -1,10 +1,9 @@
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/1f42fab2-3fc4-4f71-ad79-a157a63a9bb1" />
+
+
+
 # FraudeXAI
 ### Sistema Inteligente de Detección de Fraude en Tiempo Real con Análisis Explicable
-
-dghj
-
-
-
 
 ## 📋 Descripción del Proyecto
 
