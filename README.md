@@ -319,7 +319,7 @@ is_fraud = final_prediction > threshold
 ### Instalación Rápida
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/fraud-detection-system.git
+git clone https://github.com/JhonAlexGS/FraudeXAI.git
 cd fraud-detection-system
 
 # Backend
@@ -536,8 +536,8 @@ MIT License - ver archivo [LICENSE](LICENSE) para detalles
 
 **Jhon Alexander García**
 
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- LinkedIn: [tu-perfil](https://www.linkedin.com/in/jhonalexandergarciasierra/)
+- GitHub: [@tu-usuario](https://github.com/JhonAlexGS)
 - Email: tu.email@ejemplo.com
 
 ---
