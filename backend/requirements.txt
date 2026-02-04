@@ -1,0 +1,13 @@
+# Framework web
+fastapi==0.110.0        # Framework para crear APIs REST
+uvicorn[standard]==0.27.1  # Servidor ASGI para correr FastAPI
+
+# Base de datos
+sqlalchemy==2.0.27      # ORM (Object-Relational Mapping)
+alembic==1.13.1         # Migraciones de base de datos
+
+# Validación de datos
+pydantic==2.6.1         # Validación de datos con tipos
+
+# Utilidades
+python-dotenv==1.0.1    # Cargar variables de entorno desde .env
